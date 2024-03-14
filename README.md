@@ -1,4 +1,5 @@
 # This fork gives a more in depth specification of the requirements to run in Ubuntu 16.04, CUDA 10.0, CUDNN 7.5, python 2.7 (2024)
+## also to work with just one GPU
 
 # 6-DoF GraspNet: Variational Grasp Generation for Object Manipulation
 Implementation of [6-DoF GraspNet](https://arxiv.org/abs/1905.10520) with tensorflow and python. This repo has been tested with python 2.7 and tensorflow 1.12.
